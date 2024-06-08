@@ -56,7 +56,7 @@ When I'm not coding, you can find me playing basketball, volleyball, or enjoying
 
 ## 📊 GitHub Stats
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielh987&show_icons=true&theme=radical)](https://github.com/danielh987)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielh987&show_icons=true&theme=shadow_blue)](https://github.com/danielh987)
 
 ## 🤝 Let's Connect!
 
