@@ -64,4 +64,4 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/daniel-h
 
 ---
 
-I hope you find my projects and contributions insightful and inspiring. Happy coding!  🚀
+I hope you find my projects and contributions insightful and inspiring. Happy coding!  🚀 
