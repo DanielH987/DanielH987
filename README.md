@@ -13,7 +13,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science at Brigham Young 
 ## 🔧 Skills
 
 - **Programming Languages**: Python
-- **Web Development**: REST APIs, React Native
+- **Web Development**: REST APIs, React
 - **Cloud Technologies**: AWS (Machine Learning, Cloud Foundations, Data Engineering, Cloud Architecting)
 
 ## 🏆 Certifications
