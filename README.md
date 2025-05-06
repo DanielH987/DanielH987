@@ -65,3 +65,81 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/daniel-h
 ---
 
 I hope you find my projects and contributions insightful and inspiring. Happy coding!  🚀 
+
+
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Contact Form</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f9f9f9;
+      }
+
+      .form-container {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 400px;
+      }
+
+      .form-container h2 {
+        margin-top: 0;
+        margin-bottom: 10px;
+      }
+
+      input[type="text"],
+      input[type="email"] {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        border-radius: 5px;
+      }
+
+      button {
+        width: 100%;
+        background-color: #4caf50;
+        color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+      }
+
+      #message {
+        margin-top: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="form-container">
+
+      <h2>Contact Us</h2>
+      <p>Please fill out the form below and we’ll get back to you soon.</p>
+
+      <form id="contactForm">
+      </form>
+
+      <div id="message"></div>
+      
+    </div>
+
+    <script>
+      const form = document.getElementById("contactForm");
+      const messageDiv = document.getElementById("message");
+
+      form.addEventListener("submit", function (e) {
+        e.preventDefault();
+        messageDiv.textContent = "Form submitted successfully!";
+      });
+    </script>
+  </body>
+</html>
