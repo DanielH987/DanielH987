@@ -1,57 +1,67 @@
-# Hi there, I'm Samuel Hootini! 👋  
+# Hi there, I'm Daniel Hootini! 👋
 
-## 🚀 About Me  
+## About Me
 
-I'm a self-taught software engineer, SaaS founder, and DevOps leader with a passion for building distributed systems that scale. My career has been defined by moving fast, solving real-world problems, and leading impactful projects at the intersection of engineering and business. Whether it’s automating workflows, architecting SaaS platforms, or streamlining infrastructure, I thrive on turning ideas into production-ready systems.  
+I'm currently pursuing a Bachelor's degree in Computer Science at Brigham Young University–Hawaii. I have a deep passion for technology, programming, and all things related to software engineering and automation. My journey in the tech world has been both diverse and enriching, allowing me to explore various facets of the field and develop a robust skill set.
 
-## 🌐 Find Me Online  
+## 🌐 Find Me Online
 
-- **LinkedIn**: [Samuel Hootini](https://www.linkedin.com/in/samuel-hootini)  
-- **Email**: [samuel@propellur.com](mailto:samuel@propellur.com)  
+- **LinkedIn**: [Daniel Hootini](https://www.linkedin.com/in/daniel-hootini)
+- **Portfolio**: [danielh987.github.io/portfolio](https://danielh987.github.io/portfolio)
+- **Email**: [hootinid@gmail.com](mailto:hootinid@gmail.com)
 
-## 🔧 Skills & Expertise  
+## 🔧 Skills
 
-- **Engineering Leadership**: DevOps, distributed systems, CI/CD, observability  
-- **Backend & Infrastructure**: Supabase, Vercel, GCP, API orchestration, automation platforms (Zapier, Make.com)  
-- **Workflow & SaaS Development**: Scheduling integrations (Square, Calendly, Acuity), VAPI AI, Twilio, Google Calendar  
-- **Languages**: Python, JavaScript, automation scripting  
-- **Other Strengths**: Technical documentation, developer onboarding, modular system design  
+- **Programming Languages**: Python
+- **Web Development**: REST APIs, React
+- **Cloud Technologies**: AWS (Machine Learning, Cloud Foundations, Data Engineering, Cloud Architecting)
 
-## 💼 Experience  
+## 🏆 Certifications
 
-- **Co-Founder & CTO** | ScheduleHero AI | *Apr 2025 – Present*  
-  - Architected and deployed a cloud-native AI scheduling platform.  
-  - Designed distributed workflows integrating AI and scheduling APIs.  
-  - Built internal tooling, CI pipelines, and observability with PostHog.  
-  - Balanced roles as technical lead and product strategist.  
+- **AWS Academy Graduate** - AWS Academy Machine Learning Foundations
+- **AWS Academy Graduate** - AWS Academy Cloud Foundations
+- **AWS Academy Graduate** - AWS Academy Data Engineering
+- **AWS Academy Graduate** - AWS Academy Cloud Architecting
 
-- **DevOps Director** | The Centurion Media Group | *2022 – Apr 2025*  
-  - Led automation and backend engineering for marketing-integrated workflows.  
-  - Migrated fragile no-code systems into hardened, scalable infrastructure.  
-  - Reduced lead-to-sale friction with API-first processes.  
+## 💼 Work Experience
 
-- **Founder** | Propellur | *2020 – 2025*  
-  - Launched a development agency delivering custom-code solutions for SMBs.  
+- **Teacher Assistant, CS and IT** | Brigham Young University–Hawaii | Jan 2023 - Present
+  - Facilitated learning by tutoring and grading computer science courses, contributing to an increase in student success rates.
+  - Developed planning and entrepreneurial skills through team meetings and project reviews.
 
-- **Technical Support Engineer** | Amazon | *Jan 2022 – Apr 2022*  
+- **Mobile Developer Intern** | BYU-Hawaii Alumni Relations | Aug 2023 - Dec 2023
+  - Led a project to develop a digital ID and benefits card for alumni, improving user accessibility and security.
+  - Gained valuable experience in project management and team collaboration.
 
-- **System Engineer** | Kodiak Canvas | *May 2021 – Aug 2021*  
-  - Automated inventory, accounting, and support systems with Python & JS.  
+- **Developer** | Propellur | Dec 2021 - Dec 2022
+  - Improved data processing efficiency and streamlined data entry processes, significantly boosting productivity and reducing error rates.
 
-- **Missionary** | The Church of Jesus Christ of Latter-day Saints | *2016 – 2018* (France)  
+## 🎓 Education
 
-## 🎓 Education  
+- **Bachelor of Science in Computer Science** | Brigham Young University–Hawaii | Aug 2022 - Dec 2025
 
-- **Brigham Young University–Idaho** – Web Development *(2020 – 2023)*  
-- **BYU–Pathway Worldwide** – Computer Science *(2020 – 2023)*  
+## 🌟 Projects
 
-## 🌐 Languages  
+Discover more about the projects that fuel my passion for web development on my [portfolio](https://danielh987.github.io/portfolio/).
 
-- **English**: Native / Bilingual  
-- **French**: Native / Bilingual  
-- **Spanish**: Full Professional  
-- **Tahitian**: Limited Working  
+## 🌐 Languages
 
-## 🤝 Let’s Connect  
+- English
+- French
+- Spanish
 
-I’m always open to collaborating on impactful projects, SaaS platforms, or automation initiatives. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-hootini) or reach out by [email](mailto:samuel@propellur.com).  
+## ⚽ Hobbies
+
+When I'm not coding, you can find me playing basketball, volleyball, or enjoying music on the piano.
+
+## 📊 GitHub Stats
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielh987&show_icons=true&theme=shadow_blue)](https://github.com/danielh987)
+
+## 🤝 Let's Connect!
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/daniel-hootini) or [email](mailto:hootinid@gmail.com) for any collaborations or just a friendly chat about technology and software development.
+
+---
+
+I hope you find my projects and contributions insightful and inspiring. Happy coding!  🚀 
